@@ -1,5 +1,7 @@
 # Chin EMG OSA Severity Assessment — MATLAB Code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21434300.svg)](https://doi.org/10.5281/zenodo.21434300)
+
 MATLAB implementation accompanying:
 
 > A. Rehman, H. Saleh, A. Khandoker, and M. Al-Qutayri, “Chin electromyography-based explainable machine learning framework for obstructive sleep apnea severity assessment,” *Expert Systems with Applications*, 2026. DOI: [10.1016/j.eswa.2026.133654](https://doi.org/10.1016/j.eswa.2026.133654).
@@ -147,7 +149,19 @@ See `PUBLIC_RELEASE_CHECKLIST.md` and `GITHUB_DESKTOP_GUIDE.md`.
 
 ## Citation
 
-Citation metadata are available in `CITATION.cff`.
+## How to cite
+
+If you use this repository, please cite both the software release and the associated journal article.
+
+### Software release
+
+Rehman, A., Saleh, H., Khandoker, A., & Al-Qutayri, M. (2026). *Chin EMG OSA Severity Assessment — MATLAB Code* (Version 1.0.0-rc1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21434300
+
+### Associated article
+
+Rehman, A., Saleh, H., Khandoker, A., & Al-Qutayri, M. (2026). Chin electromyography-based explainable machine learning framework for obstructive sleep apnea severity assessment. *Expert Systems with Applications*. https://doi.org/10.1016/j.eswa.2026.133654
+
+Machine-readable citation metadata are provided in `CITATION.cff`.
 
 ## License
 

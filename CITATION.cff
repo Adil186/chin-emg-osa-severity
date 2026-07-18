@@ -4,16 +4,20 @@ title: "Chin EMG OSA Severity Assessment — MATLAB Code"
 type: software
 version: "1.0.0-rc1"
 date-released: 2026-07-18
+doi: "10.5281/zenodo.21434300"
 authors:
   - family-names: Rehman
     given-names: Adil
     orcid: "https://orcid.org/0000-0001-8921-0992"
   - family-names: Saleh
     given-names: Hani
+	orcid: "https://orcid.org/0000-0002-7185-0278"
   - family-names: Khandoker
     given-names: Ahsan
+	orcid: "https://orcid.org/0000-0002-0636-1646"
   - family-names: Al-Qutayri
     given-names: Mahmoud
+	orcid: "https://orcid.org/0000-0002-9600-8036"
 repository-code: "https://github.com/Adil186/chin-emg-osa-severity"
 license: MIT
 preferred-citation:
