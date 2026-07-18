@@ -1,0 +1,4 @@
+SubjectID,Severity,EDFFile,ExpectedEvents
+SYNTH001,Mild,C:\private\acpn\subject_001.edf,
+SYNTH002,Moderate,C:\private\acpn\subject_002.edf,
+SYNTH003,Severe,C:\private\acpn\subject_003.edf,

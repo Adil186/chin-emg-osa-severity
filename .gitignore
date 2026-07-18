@@ -1,0 +1,39 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.mlappinstall
+*.prj
+slprj/
+codegen/
+
+# Outputs and caches
+outputs/*
+!outputs/.gitkeep
+*.mat
+*.xlsx
+*.xls
+*.csv
+!config/example_*.csv
+*.fig
+*.log
+*.tmp
+
+# Clinical/private data
+*.edf
+*.EDF
+*.eeg
+*.rec
+*.hea
+*.dat
+private/
+data/
+config/local_paths.m
+config/*private*manifest*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,3 @@
+SubjectID,Severity,EDFFile,EventFile
+UCD_EXAMPLE_01,Mild,C:\data\ucddb\ucddb002.edf,C:\data\ucddb\ucddb002_events.txt
+UCD_EXAMPLE_02,Moderate,C:\data\ucddb\ucddb003.edf,C:\data\ucddb\ucddb003_events.txt

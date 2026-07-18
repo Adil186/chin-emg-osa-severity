@@ -1,0 +1,8 @@
+function paths = local_paths()
+%LOCAL_PATHS Local third-party dependency locations.
+% Copy this file to local_paths.m and edit the values. local_paths.m is
+% excluded by .gitignore.
+
+paths.hdemgDecomposition = "C:\\MATLAB\\hdEMG-Decomposition";
+paths.emgFeatureToolbox  = "C:\\MATLAB\\EMG-Feature-Extraction-Toolbox";
+end
