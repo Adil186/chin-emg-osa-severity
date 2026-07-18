@@ -16,8 +16,7 @@ This repository is a de-identified, version-controlled release of the analysis c
 - an external UCDDB feature-extraction example.
 
 ## Important release status
-
-This package is a **release candidate (`v1.0.0-rc1`)** prepared from the submitted supplementary archive. The code has been statically reviewed and de-identified, but it could not be executed in this environment because MATLAB, the restricted ACPN data, and the external MATLAB dependencies were unavailable. Before making the repository public, run `tests/run_all_tests.m` and the private-data smoke tests described in `docs/REPRODUCIBILITY.md`.
+This package is a public research-code release candidate (`v1.0.0-rc1`) prepared from the submitted supplementary archive. The code has been statically reviewed and de-identified, and all five included automated tests passed in the author's local MATLAB environment. Some raw-data workflows depend on external MATLAB packages and may require local path configuration or version-specific interface adaptation. See `PACKAGE_VALIDATION_REPORT.md` and `docs/REPRODUCIBILITY.md` for the validation scope and known limitations.
 
 ## Data availability
 
